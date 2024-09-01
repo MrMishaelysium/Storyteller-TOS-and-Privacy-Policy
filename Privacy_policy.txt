@@ -7,12 +7,11 @@ DATA COLLECTED
 This discord bot does not collect any personal data. The purpose of storyteller bot is solely to display images and information related to the Discord application called Storyteller Bot.  
 
 **Storyteller Bot collects the following data:**  
-- **Your Discord ID (snowflake):** This is used to register you and retrieve your game data, such as stories you've created, liked characters, and game settings.  
-- **Your Discord username avatar:** This information allows some commands to be processed more efficiently without needing to call the Discord API repeatedly.  
-- **The Discord server ID (snowflake) where you use the bot:** This is used to register server-related game data.  
+- **Your Discord ID:** This is used to register you and retrieve your game data, such as stories you've created, liked characters, and game settings.  
+- **Your Discord username:** This information allows some commands to be processed more efficiently without needing to call the Discord API repeatedly.  
 - **Your game data:** This includes stories, interactions, and settings tied to your account.  
 
-Liked and created characters are used anonymously to determine global rankings. Some data may be used for public leaderboards that can be accessed via commands documented in the bot. Storyteller Bot does not sell or share your data with any third parties that do not represent the application.  
+Created characters are used anonymously to determine global rankings. Some data may be used for public leaderboards that can be accessed via commands documented in the bot. Storyteller Bot does not sell or share your data with any third parties that do not represent the application.  
 
 ### Message Content  
 
