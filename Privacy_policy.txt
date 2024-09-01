@@ -1,10 +1,10 @@
 **Privacy & Policy - Storyteller Bot and Storyteller HQ Server**  
 
-**Storyteller HQ Discord Server:** [https://discord.com/invite/23BedFAUb8]
+**Storyteller HQ Discord Server:** [https://Discord.com/invite/23BedFAUb8]
 
 DATA COLLECTED  
 
-This discord bot does not collect any personal data. The purpose of storyteller bot is solely to display images and information related to the Discord application called Storyteller Bot.  
+This Discord bot does not collect any personal data. The purpose of Storyteller bot is solely to display images and information related to the Discord application called Storyteller Bot.  
 
 **Storyteller Bot collects the following data:**  
 - **Your Discord ID:** This is used to register you and retrieve your game data, such as stories you've created, liked characters, and game settings.  
