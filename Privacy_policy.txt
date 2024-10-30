@@ -1,22 +1,35 @@
-**Privacy & Policy - Storyteller Bot and Storyteller HQ Server**  
+Maybe update with this 
 
-**Storyteller HQ Discord Server:** [https://Discord.com/invite/23BedFAUb8]
+Privacy & Policy - Storyteller Bot and Storyteller HQ Server
 
-DATA COLLECTED  
+Storyteller HQ Discord Server: [https://Discord.com/invite/23BedFAUb8]
 
-This Discord bot does not collect any personal data. The purpose of Storyteller bot is solely to display images and information related to the Discord application called Storyteller Bot.  
 
-**Storyteller Bot collects the following data:**  
-- **Your Discord ID:** This is used to register you and retrieve your game data, such as stories you've created, liked characters, and game settings.  
-- **Your Discord username:** This information allows some commands to be processed more efficiently without needing to call the Discord API repeatedly.  
-- **Your game data:** This includes stories, interactions, and settings tied to your account.  
+---
 
-Created characters are used anonymously to determine global rankings. Some data may be used for public leaderboards that can be accessed via commands documented in the bot. Storyteller Bot does not sell or share your data with any third parties that do not represent the application.  
+Data Collection Overview
 
-### Message Content  
+The Storyteller Bot is designed solely for providing images and information related to the Storyteller Bot Discord application. It does not collect or store personal data beyond what is necessary for its intended functionality.
 
-Storyteller Bot has no privileged intents on, that means that Storyteller Bot can read the content of messages sent in your Discord server or DM's with the bot ONLY WHEN THE BOT IS "PINGED" IN ANY WAY; however, no message content is stored. The bot reads messages only to identify if they match a known Storyteller command. This process is only triggered when messages contain the designated command prefix or character set by your server settings.  
+Data Collected
 
-### Data Removal  
+Storyteller Bot collects minimal information to enhance your experience and allow the app to operate efficiently. Specifically, it collects:
 
-To request data deletion, join the official Storyteller HQ Discord server and contact the designated user with the ID 709530643750584391. Depending on the nature of the request, a second confirmation may be required a few days later.
+Discord ID: Used to identify you in the bot’s system, retrieve your game data, and manage your interactions (such as created stories, liked characters, and personalized settings).
+
+Discord Username: Helps process commands more efficiently by reducing repeated API calls to Discord.
+
+Game Data: This includes stories you create, interactions you engage in, and settings specific to your account.
+
+
+Public Data Usage
+
+Anonymized character data may contribute to global rankings. In some cases, data from public interactions may be displayed on leaderboards accessible through specific commands. No data is sold or shared with external parties that are unaffiliated with the application.
+
+Message Content Policy
+
+Storyteller Bot does not store message content. It reads messages only when “pinged” (e.g., a message includes the bot’s designated command prefix or mention). This limited reading function allows the bot to recognize and respond to valid commands within your server or in private DMs. Outside of these scenarios, message content is not accessible or stored.
+
+Data Removal
+
+If you would like to request data deletion, please join the Storyteller HQ Discord server and contact the designated user (ID: 709530643750584391). For certain requests, an additional confirmation may be required a few days after your initial request.
